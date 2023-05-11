@@ -1,5 +1,3 @@
-//Search keywords: inurl:/app/http/controllers
-//Code:
 $i++;
 $cfg['Servers'][$i]['host'] = ''; //provide hostname and port if other than default
 $cfg['Servers'][$i]['user'] = '';   //user name for your remote server
